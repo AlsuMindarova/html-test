@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 <body>
 
 <h2>My First Heading</h2>
 
-<p>My first paragraph.</p>
-<p>My second paragraph.</p>
+<h6>hi</h6>
 
-<h6>кря</h6>
+<p>Syn is a sweetie</p>
+
+<p>May is also <br> one </p>
+
 
 <a href="https://github.com/AlsuMindarova">This is a link</a>
 
